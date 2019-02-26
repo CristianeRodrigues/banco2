@@ -19,4 +19,8 @@ public class Funcionario {
         this.codigo = codigo;
         System.out.println("código");
     }
+    public void setFuncao(String funcao) {
+        this.função = funcao;
+        System.out.println("função");
+    }
 }
