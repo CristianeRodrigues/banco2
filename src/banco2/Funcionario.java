@@ -23,5 +23,6 @@ public class Funcionario {
         this.função = funcao;
         System.out.println("função");
         System.out.println("função2");
+        System.out.println("função3");
     }
 }
