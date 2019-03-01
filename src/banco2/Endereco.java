@@ -13,6 +13,7 @@ public class Endereco {
      String rua;
     String numero;
     String bairro;
+    String cep;
     
      public void setRua(String rua){
        this.rua = rua; 
