@@ -19,6 +19,7 @@ public class Banco2 {
         
         Funcionario funcionario = new Funcionario();
         funcionario.setCodigo(500);
+        funcionario.setFuncao("supervisor",200);
         System.out.println("projeto Banco");
     }
 
